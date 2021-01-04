@@ -11,25 +11,9 @@ int main(void)
     rec r;
     list mylist;
 
-    ///////////////////////////
-     // SIMPLY COPY AND PASTE THIS MAIN into your program
-     // Extra test stuff /////
-
-     // - get this stuff working last
-
-     // comment this section out until the first milestone is working
-
-      // YOUR FINAL VERSION SUBMITTED MUST HAVE THIS SECTION WORKING
-
-     //  Be sure this section executes when you turn it in
-
-     //////////////////////////
-
-
 
     rec  rec1;
 
-    // note that you may need to cast your string constants: eg (char*)"1992"
     rec  rec2((char*)"1992", (char*)"Hank", (char*)"Chigla");
 
     rec2.Print();
